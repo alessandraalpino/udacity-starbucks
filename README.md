@@ -11,10 +11,10 @@ Therefore, we'll try to answer the following questions based on this datasets:
 
 1. Is there a correlation between income and amount of completed offers? 
 2. What is the proportion of clients who have completed offers based on their age? 
-3. Do older customers complete more offer than recent customers?
+3. What is the proportion of clients who have completed offers based on their income?
 
 
--> Here you can read my article on Medium about this analysis.
+-> [Here](https://medium.com/@alessandraalpino/starbucks-capstone-analysis-8f35db1e70a9) you can read my article on Medium about this analysis.
 
 
 # File Descriptions
@@ -23,3 +23,8 @@ Udacity_project.ipynb -> notebook with analysis
 
 
 # Results
+
+We have some hints that offers are completed majority by people with:
+
+1. Income lower than 60000
+2. Age between 40 to 70
