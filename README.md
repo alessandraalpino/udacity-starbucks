@@ -18,7 +18,7 @@ Therefore, we'll try to answer the following questions based on this datasets:
 
 
 # File Descriptions
-Udacity_project.ipynb -> notebook with analysis
+Starbucks_Capstone_notebook.ipynb -> notebook with analysis
 
 
 
