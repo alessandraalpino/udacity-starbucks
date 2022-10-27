@@ -16,6 +16,8 @@ Therefore, we'll try to answer the following questions based on this datasets:
 
 -> [Here](https://medium.com/@alessandraalpino/starbucks-capstone-analysis-8f35db1e70a9) you can read my article on Medium about this analysis.
 
+-> [Here](https://www.kaggle.com/datasets/blacktile/starbucks-app-customer-reward-program-data) you can find the datasets. We won't upload it here because the files are large. 
+
 
 # File Descriptions
 Starbucks_Capstone_notebook.ipynb -> notebook with analysis
