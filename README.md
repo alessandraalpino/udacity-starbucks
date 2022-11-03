@@ -7,11 +7,15 @@ There are 3 datasets. These data sets contains simulated data that mimics custom
 * Profile: information about the clientes
 * Transcript: information about the events 
 
-Therefore, we'll try to answer the following questions based on this datasets:
+Therefore, we’ll try to answer the following questions based on this datasets:
 
-1. Is there a correlation between income and amount of completed offers? 
-2. What is the proportion of clients who have completed offers based on their age? 
+1. Is there a correlation between income and amount of completed offers?
+2. What is the proportion of clients who have completed offers based on their age?
 3. What is the proportion of clients who have completed offers based on their income?
+4. What is the proportion of clients who have completed offers based on their gender?
+5. What is the proportion of clients who have completed offers based on the offer type?
+
+This approach won’t be using a machine learning model. The suggestion will be build based on the data analysis.
 
 
 -> [Here](https://medium.com/@alessandraalpino/starbucks-capstone-analysis-8f35db1e70a9) you can read my article on Medium about this analysis.
@@ -26,7 +30,14 @@ Starbucks_Capstone_notebook.ipynb -> notebook with analysis
 
 # Results
 
-We have some hints that offers are completed majority by people with:
+We have some hints that a profile that Starbucks should focus on is:
 
-1. Income lower than 60000
-2. Age between 40 to 70
+1. Age between 40 to 70
+
+2. Income between 50000 and 90000
+
+3. Men
+
+4. Discount offer
+
+5. Send by email
